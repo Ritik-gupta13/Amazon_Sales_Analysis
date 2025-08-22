@@ -1,4 +1,4 @@
-#Amazon_Sales_Analysis
+Amazon_Sales_Analysis
 
 Transform raw Amazon sales data into actionable insights with an end-to-end Power BI dashboard. This project covers data preparation, modeling, KPI design, and interactive reporting to support decisions in sales, marketing, and inventory.
 
