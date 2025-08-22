@@ -1,8 +1,8 @@
-Amazon_Sales_Analysis
+# Amazon_Sales_Analysis
 
 Transform raw Amazon sales data into actionable insights with an end-to-end Power BI dashboard. This project covers data preparation, modeling, KPI design, and interactive reporting to support decisions in sales, marketing, and inventory.
 
-🚀 Objective
+## 🚀 Objective
 
 Build a comprehensive Power BI dashboard that provides:
   -High-level KPIs (YTD, QTD, Units/Products, Reviews)
@@ -10,7 +10,7 @@ Build a comprehensive Power BI dashboard that provides:
   -Category & product performance insights
   -Interactive filtering and drill-downs
 
-📦 Scope & Key Deliverables
+## 📦 Scope & Key Deliverables
   1.Data Collection & Preparation
    -Import sales transactions, product details, and review counts
    -Clean, transform, and model data for consistency and accuracy
@@ -45,7 +45,7 @@ Build a comprehensive Power BI dashboard that provides:
    -DAX measures for KPIs, time intelligence
    -Power BI Service for sharing/collaboration (optional)
 
-📊 KPIs (examples)
+## 📊 KPIs (examples)
 
 -YTD Sales
 -QTD Sales
